@@ -9,7 +9,10 @@ Things you may want to cover:
 
 * System dependencies
 
-* Configuration
+* Requirements
+
+  * imagemagick
+    - `brew install imagemagick@6`
 
 * Database creation
 
