@@ -175,7 +175,7 @@ GEM
       nokogiri (~> 1.8, >= 1.8.4)
     orm_adapter (0.5.0)
     public_suffix (3.0.3)
-    puma (3.12.4)
+    puma (3.12.6)
     pygments.rb (1.2.1)
       multi_json (>= 1.0.0)
     rack (2.0.8)
